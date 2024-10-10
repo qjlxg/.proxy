@@ -57,3 +57,9 @@ with open('ss', 'wb') as f:
     
 with open('vmess', 'wb') as f:
     f.write(base64.b64encode('\n'.join(vmess).encode()))
+
+with open('vless', 'wb') as f:
+    f.write(base64.b64encode('\n'.join(vless).encode()))
+
+with open('trojan', 'wb') as f:
+    f.write(base64.b64encode('\n'.join(trojan).encode()))
