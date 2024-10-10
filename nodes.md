@@ -14,7 +14,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_base64.txt|
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAir|
 | ✅ | 15 | 4h |https://raw.githubusercontent.com/freefq/free/master/v2|
-| ❌ | 0 | idk |https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt|
+| ❌ | 0 | idk |https://github.com/qjlxg/ss/raw/refs/heads/master/list_raw.txt|
 | ✅ | 8 | 2h |https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free|
 | ✅ | 4 | 2h |https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/ss/sssub|
 | ✅ | 2 | 2h |https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/ssr/ssrsub|
