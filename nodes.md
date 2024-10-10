@@ -43,6 +43,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 65 | idk |https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt|
 | ✅ | 307 | idk |https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix|
 | ❌ | 0 | idk |https://config.elaheniloofar.link|
+| ❌ | 0 | idk |http://brovee.myds.me:12580/clash/proxies|
 | ❌ | 0 | idk |https://tackserver-code.ir/api/json/mrpooya.xyz.json|
 | ❌ | 0 | idk |https://test2.sub-channel.workers.dev/vless/android/random|
 | ❌ | 0 | 12h |https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config|
